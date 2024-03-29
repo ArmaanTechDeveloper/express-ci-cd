@@ -4,7 +4,8 @@
   "description": "🔥 Automating express server work flows with github actions and digitalocean",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "start-build": "node server.js"
   },
   "keywords": [],
   "author": "",
